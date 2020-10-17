@@ -15,5 +15,13 @@ API for crating and maintaning issues: `gh issue`
 
 Create a PR: gh pr `create -B master -b "This is a PR to test gh" -t "TEST PR"`
 
+PR diff: `gh pr diff --color auto`
+
+List PRs `gh pr list` - has multiple filters
+
+Close, reopen PR `gh pr close`, `gh pr reopen`
+
+Review a PR: `gh pr review`
+
 
 
