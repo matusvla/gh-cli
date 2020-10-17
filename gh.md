@@ -7,6 +7,5 @@ Interactive login to GitHub: `gh auth login`
 
 Logout: `gh auth logout`
 
-
-
+Create a new repo on GitHub from a local repo: `gh repo create`
 
