@@ -9,5 +9,11 @@ Logout: `gh auth logout`
 
 Create a new repo on GitHub from a local repo: `gh repo create`
 
-Simplified syntax for cloning a repo: `gh repo clone <owner>/<repo>` = `git clone https://github.com/matusvla/gh-cli.git`
+Simplified syntax for cloning a repo: `gh repo clone <owner>/<repo>` = `git clone https://github.com/<owner>/<repo>.git`
+
+API for crating and maintaning issues: `gh issue`
+
+Create a PR: gh pr `create -B master -b "This is a PR to test gh" -t "TEST PR"`
+
+
 
